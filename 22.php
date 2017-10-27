@@ -7,5 +7,5 @@ if (!isset($_GET['echostr'])) {
     $wechatObj->valid();
 }
 
-
+99999999999999999999
 ?>
